@@ -1,0 +1,89 @@
+[{
+  "id": 1,
+  "name": "Franco Armani",
+  "image": "//",
+  "salary": "$90000",
+  "position": "Goalkeeper",
+  "age": "34",
+  "goal": "0"
+}, {
+  "id": 2,
+  "name": "Nicolás Otamendi",
+  "image": "//",
+  "salary": "$38000",
+  "position": "Defender",
+  "age": "33",
+  "goal": "4"
+}, {
+  "id": 3,
+  "name": "Nicolás Tagliafico",
+  "image": "https://robohash.org/eteoserror.png?size=250x250&set=set1",
+  "salary": "$35000",
+  "position": "Defender",
+  "age": "28",
+  "goal": "0"
+}, {
+  "id": 4,
+  "name": "Walter Kannemann",
+  "image": "//",
+  "salary": "$37000",
+  "position": "Defender",
+  "age": "29",
+  "goal": "0"
+}, {
+  "id": 5,
+  "name": "Facundo Medina",
+  "image": "//",
+  "salary": "$32000",
+  "position": "Defender",
+  "age": "21",
+  "goal": "0"
+}, {
+  "id": 6,
+  "name": "Ángel Di María",
+  "image": "//",
+  "salary": "$73000",
+  "position": "Midfielder",
+  "age": "33",
+  "goal": "20"
+}, {
+  "id": 7,
+  "name": "Leandro Paredes",
+  "image": "//",
+  "salary": "$70000",
+  "position": "Midfielder",
+  "age": "26",
+  "goal": "3"
+}, {
+  "id": 8,
+  "name": "Giovani Lo Celso",
+  "image": "//",
+  "salary": "$69000",
+  "position": "Midfielder",
+  "age": "24",
+  "goal": "2"
+}, {
+  "id": 9,
+  "name": "Lautaro Martínez",
+  "image": "//",
+  "salary": "$78000",
+  "position": "Forwarder",
+  "age": "23",
+  "goal": "11"
+}, {
+  "id": 10,
+  "name": "Lionel Messi (C)",
+  "image": "//",
+  "salary": "$162000",
+  "position": "Forwarder",
+  "age": "33",
+  "goal": "71"
+}, {
+  "id": 11,
+  "name": "Lucas Ocampos",
+  "image": "//",
+  "salary": "$63000",
+  "position": "Forwarder",
+  "age": "26",
+  "goal": "2"
+}]
