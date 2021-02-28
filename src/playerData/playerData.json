@@ -1,7 +1,7 @@
 [{
   "id": 1,
   "name": "Franco Armani",
-  "image": "//",
+  "image": "./playerImages/001.jpg",
   "salary": "$90000",
   "position": "Goalkeeper",
   "age": "34",
@@ -9,7 +9,7 @@
 }, {
   "id": 2,
   "name": "Nicolás Otamendi",
-  "image": "//",
+  "image": "./playerImages/002.jpg",
   "salary": "$38000",
   "position": "Defender",
   "age": "33",
@@ -17,7 +17,7 @@
 }, {
   "id": 3,
   "name": "Nicolás Tagliafico",
-  "image": "https://robohash.org/eteoserror.png?size=250x250&set=set1",
+  "image": "./playerImages/003.jpg",
   "salary": "$35000",
   "position": "Defender",
   "age": "28",
@@ -25,7 +25,7 @@
 }, {
   "id": 4,
   "name": "Walter Kannemann",
-  "image": "//",
+  "image": "./playerImages/004.jpg",
   "salary": "$37000",
   "position": "Defender",
   "age": "29",
@@ -33,7 +33,7 @@
 }, {
   "id": 5,
   "name": "Facundo Medina",
-  "image": "//",
+  "image": "./playerImages/005.jpg",
   "salary": "$32000",
   "position": "Defender",
   "age": "21",
@@ -41,7 +41,7 @@
 }, {
   "id": 6,
   "name": "Ángel Di María",
-  "image": "//",
+  "image": "./playerImages/006.jpg",
   "salary": "$73000",
   "position": "Midfielder",
   "age": "33",
@@ -49,7 +49,7 @@
 }, {
   "id": 7,
   "name": "Leandro Paredes",
-  "image": "//",
+  "image": "./playerImages/007.jpg",
   "salary": "$70000",
   "position": "Midfielder",
   "age": "26",
@@ -57,7 +57,7 @@
 }, {
   "id": 8,
   "name": "Giovani Lo Celso",
-  "image": "//",
+  "image": "./playerImages/008.jpg",
   "salary": "$69000",
   "position": "Midfielder",
   "age": "24",
@@ -65,7 +65,7 @@
 }, {
   "id": 9,
   "name": "Lautaro Martínez",
-  "image": "//",
+  "image": "./playerImages/009.jpg",
   "salary": "$78000",
   "position": "Forwarder",
   "age": "23",
@@ -73,7 +73,7 @@
 }, {
   "id": 10,
   "name": "Lionel Messi (C)",
-  "image": "//",
+  "image": "./playerImages/010.jpg",
   "salary": "$162000",
   "position": "Forwarder",
   "age": "33",
@@ -81,7 +81,7 @@
 }, {
   "id": 11,
   "name": "Lucas Ocampos",
-  "image": "//",
+  "image": "./playerImages/011.jpg",
   "salary": "$63000",
   "position": "Forwarder",
   "age": "26",
