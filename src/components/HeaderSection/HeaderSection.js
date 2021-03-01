@@ -10,28 +10,27 @@ const HeaderSection = () => {
     <div>
       {/* Header Section */}
       <header className="header bg-primary container-fluid">
+        {/* NavBar Using ReactBootstrap */}
         <Navbar collapseOnSelect expand="lg" variant="dark">
-          <Navbar.Brand href="#home" className="brand-logo-style text-white">
+          <Navbar.Brand href="/" className="brand-logo-style text-white">
             <img src={logo} alt={brandName} /><span className="d-none d-md-inline-block">{brandName}</span>
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
           <Navbar.Collapse id="responsive-navbar-nav">
             <Nav className="mr-auto">
-              <Nav.Link href="#features">Features</Nav.Link>
-              <Nav.Link href="#pricing">Pricing</Nav.Link>
-              <NavDropdown title="Dropdown" id="collasible-nav-dropdown">
-                <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
-                <NavDropdown.Item href="#action/3.2">Another action</NavDropdown.Item>
-                <NavDropdown.Item href="#action/3.3">Something</NavDropdown.Item>
+              <Nav.Link href="/players">Players</Nav.Link>
+              <Nav.Link href="/schedule">Schedule</Nav.Link>
+              <NavDropdown title="Videos" id="collasible-nav-dropdown">
+                <NavDropdown.Item href="/video">Video Hub</NavDropdown.Item>
+                <NavDropdown.Item href="/highlights">Highlights</NavDropdown.Item>
+                <NavDropdown.Item href="/special">Special Goals</NavDropdown.Item>
                 <NavDropdown.Divider />
-                <NavDropdown.Item href="#action/3.4">Separated link</NavDropdown.Item>
+                <NavDropdown.Item href="/press-conferences">Press Conferences</NavDropdown.Item>
               </NavDropdown>
             </Nav>
             <Nav>
-              <Nav.Link href="#deets">More deets</Nav.Link>
-              <Nav.Link eventKey={2} href="#memes">
-                Dank memes
-              </Nav.Link>
+              <Nav.Link href="/news">News</Nav.Link>
+              <Nav.Link eventKey={2} href="more">More</Nav.Link>
             </Nav>
           </Navbar.Collapse>
         </Navbar>

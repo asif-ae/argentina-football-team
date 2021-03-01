@@ -7,7 +7,7 @@ import FooterSection from './components/FooterSection/FooterSection';
 function App() {
   return (
     <div className="App">
-      <div className="ps-5">
+      <div>
         <HeaderSection></HeaderSection>
         <Players></Players>
         <FooterSection></FooterSection>

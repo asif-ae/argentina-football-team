@@ -5,7 +5,9 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faUserPlus } from '@fortawesome/free-solid-svg-icons'
 
 const PlayerCard = (props) => {
+  // Props Destructuring
   const {name, image, position, age, goal, salary} = props.playerInfo;
+
   return (
     <div className="col-xl-4 col-md-6 py-3">
       <div>
@@ -30,10 +32,12 @@ const PlayerCard = (props) => {
           </section>
         </Card.Body>
         <Card.Footer className="d-flex justify-content-center">
+          {/* Bootstrap Button Using ReactBootstrap */}
           <Button
             className="d-flex align-items-center"
             onClick={() => props.handleAddPlayer(props.playerInfo)}
           >
+            {/* fontAwesome Icon */}
             <FontAwesomeIcon icon={faUserPlus} className="icon-style" />
             <p className="m-0">Add this player</p>
           </Button>
