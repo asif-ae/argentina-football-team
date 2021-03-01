@@ -24,7 +24,7 @@ const MyTeam = (props) => {
                 <h3>{player.name}</h3>
               </div>
               <div>
-                <h3 className="pr-0">{player.salary}</h3>
+                <h3 className="salery">{player.salary}</h3>
               </div>
             </div>
           ))

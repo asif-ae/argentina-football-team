@@ -2,6 +2,7 @@ import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import HeaderSection from './components/HeaderSection/HeaderSection';
 import Players from './components/Players/Players';
+import FooterSection from './components/FooterSection/FooterSection';
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       <div className="ps-5">
         <HeaderSection></HeaderSection>
         <Players></Players>
+        <FooterSection></FooterSection>
       </div>
     </div>
   );
