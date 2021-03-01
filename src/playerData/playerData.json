@@ -1,88 +1,88 @@
 [{
   "id": 1,
   "name": "Franco Armani",
-  "image": "./playerImages/001.jpg",
-  "salary": "$90000",
+  "image": "https://drive.google.com/uc?id=1juA6w127mi4PmYyfJeq-p-j9_q4I9IYo",
+  "salary": "90000",
   "position": "Goalkeeper",
   "age": "34",
   "goal": "0"
 }, {
   "id": 2,
   "name": "Nicolás Otamendi",
-  "image": "./playerImages/002.jpg",
-  "salary": "$38000",
+  "image": "https://drive.google.com/uc?id=1dfESmKsto7GCefJZdLvrFwz2kIWgEhbr",
+  "salary": "38000",
   "position": "Defender",
   "age": "33",
   "goal": "4"
 }, {
   "id": 3,
   "name": "Nicolás Tagliafico",
-  "image": "./playerImages/003.jpg",
-  "salary": "$35000",
+  "image": "https://drive.google.com/uc?id=1nRiFD6MM5ABFCdAv93zI60WDbgDhWCRd",
+  "salary": "35000",
   "position": "Defender",
   "age": "28",
   "goal": "0"
 }, {
   "id": 4,
   "name": "Walter Kannemann",
-  "image": "./playerImages/004.jpg",
-  "salary": "$37000",
+  "image": "https://drive.google.com/uc?id=18ZYeOpYzm2vvMIgBBlVw9sy1XjDSKdbO",
+  "salary": "37000",
   "position": "Defender",
   "age": "29",
   "goal": "0"
 }, {
   "id": 5,
   "name": "Facundo Medina",
-  "image": "./playerImages/005.jpg",
-  "salary": "$32000",
+  "image": "https://drive.google.com/uc?id=1JaHMwHKYWf45X4R4KFIrmJkMDlV403_y",
+  "salary": "32000",
   "position": "Defender",
   "age": "21",
   "goal": "0"
 }, {
   "id": 6,
   "name": "Ángel Di María",
-  "image": "./playerImages/006.jpg",
-  "salary": "$73000",
+  "image": "https://drive.google.com/uc?id=13U66oRgUdkSza9HWf--GoaOnRodzeEKb",
+  "salary": "73000",
   "position": "Midfielder",
   "age": "33",
   "goal": "20"
 }, {
   "id": 7,
   "name": "Leandro Paredes",
-  "image": "./playerImages/007.jpg",
-  "salary": "$70000",
+  "image": "https://drive.google.com/uc?id=1irEp1sLutv6OCC1j97ESS_3gWV40zA85",
+  "salary": "70000",
   "position": "Midfielder",
   "age": "26",
   "goal": "3"
 }, {
   "id": 8,
   "name": "Giovani Lo Celso",
-  "image": "./playerImages/008.jpg",
-  "salary": "$69000",
+  "image": "https://drive.google.com/uc?id=1xHXPiGhSz5DA1Zd8ef-M-v7ONXEv041B",
+  "salary": "69000",
   "position": "Midfielder",
   "age": "24",
   "goal": "2"
 }, {
   "id": 9,
   "name": "Lautaro Martínez",
-  "image": "./playerImages/009.jpg",
-  "salary": "$78000",
+  "image": "https://drive.google.com/uc?id=1n74yEk8d6e3JKPJvAvFg7LaVskbfOj2l",
+  "salary": "78000",
   "position": "Forwarder",
   "age": "23",
   "goal": "11"
 }, {
   "id": 10,
   "name": "Lionel Messi (C)",
-  "image": "./playerImages/010.jpg",
-  "salary": "$162000",
+  "image": "https://drive.google.com/uc?id=1PBXx05YMYsUIrhnckfus-uTcijxqjU9V",
+  "salary": "162000",
   "position": "Forwarder",
   "age": "33",
   "goal": "71"
 }, {
   "id": 11,
   "name": "Lucas Ocampos",
-  "image": "./playerImages/011.jpg",
-  "salary": "$63000",
+  "image": "https://drive.google.com/uc?id=15kgpB3pvKvhATDQnLTbNV5hj_y7qPFeM",
+  "salary": "63000",
   "position": "Forwarder",
   "age": "26",
   "goal": "2"

@@ -1,7 +1,7 @@
 import React from 'react';
 import { Nav, Navbar, NavDropdown } from 'react-bootstrap';
 import './HeaderSection.css';
-import logo from '../logo.svg';
+import logo from '../../logo.svg';
 
 const brandName = "Argentina National Football Team";
 
@@ -12,7 +12,7 @@ const HeaderSection = () => {
       <header className="header bg-primary">
         <Navbar collapseOnSelect expand="lg" variant="dark">
           <Navbar.Brand href="#home" className="brand-logo-style text-white">
-            <img src={logo} alt={brandName} />{brandName}
+            <img src={logo} alt={brandName} /><span className="d-none d-md-inline-block">{brandName}</span>
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
           <Navbar.Collapse id="responsive-navbar-nav">
