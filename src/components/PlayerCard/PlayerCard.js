@@ -30,7 +30,13 @@ const PlayerCard = (props) => {
           </section>
         </Card.Body>
         <Card.Footer className="d-flex justify-content-center">
-          <Button className="d-flex align-items-center"><FontAwesomeIcon icon={faUserPlus} className="icon-style" /><p className="m-0">Add this player</p></Button>
+          <Button
+            className="d-flex align-items-center"
+            onClick={() => props.handleAddPlayer(props.playerInfo)}
+          >
+            <FontAwesomeIcon icon={faUserPlus} className="icon-style" />
+            <p className="m-0">Add this player</p>
+          </Button>
         </Card.Footer>
       </div>
     </div>
