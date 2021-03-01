@@ -9,7 +9,7 @@ const HeaderSection = () => {
   return (
     <div>
       {/* Header Section */}
-      <header className="header bg-primary">
+      <header className="header bg-primary container-fluid">
         <Navbar collapseOnSelect expand="lg" variant="dark">
           <Navbar.Brand href="#home" className="brand-logo-style text-white">
             <img src={logo} alt={brandName} /><span className="d-none d-md-inline-block">{brandName}</span>

@@ -1,3 +1,9 @@
-.players {
-  border-right: 1px solid lightgray;
+@media (min-width: 768px) {
+  .players {
+    border-right: 1px solid lightgray;
+  }
+}
+
+.total-members {
+  border-bottom: 1px solid lightgray;
 }
