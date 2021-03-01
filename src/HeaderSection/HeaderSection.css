@@ -1,0 +1,9 @@
+.brand-logo-style img {
+  height: 40px;
+  padding: 0 10px 0 0;
+}
+
+.brand-logo-style:hover {
+  color: darkorange !important;
+  cursor: pointer;
+}

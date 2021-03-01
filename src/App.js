@@ -1,14 +1,13 @@
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import HeaderSection from './HeaderSection/HeaderSection';
 
 function App() {
   return (
     <div className="App">
-      {/* Header Section */}
-      <header className="header container-fluid">
-        <h1>The project</h1>
-      </header>
-      {/* /Header Section */}
+      <div className="container-fluid p-0">
+        <HeaderSection></HeaderSection>
+      </div>
     </div>
   );
 }
